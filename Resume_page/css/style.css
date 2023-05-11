@@ -2,8 +2,28 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(131, 90, 169);
     background-color: rgb(23, 4, 30);
+    border: 10px 10px 10px 10px;
 }
 
 header {
     font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(139, 229, 229);
+}
+
+ul {
+    text-align: center;
+    margin: 10px ;
+}
+
+li {
+    text-align: left;
+    margin: 10px;
 }
